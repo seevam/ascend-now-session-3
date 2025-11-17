@@ -19,7 +19,8 @@ export function calculateDISCFit(
   discProfile: DISCProfile
 ): PersonalityFitScore {
   // Get career criteria
-  const criteria = personalityCareerMap.careerCriteria[career.id] as PersonalityCareerCriteria | undefined;
+  const careerCriteriaMap = personalityCareerMap.careerCriteria as Record<string, PersonalityCareerCriteria>;
+  const criteria = careerCriteriaMap[career.id];
 
   if (!criteria) {
     // Default scoring if career not found in map
