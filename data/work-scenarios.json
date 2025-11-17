@@ -1,0 +1,328 @@
+{
+  "version": "1.0",
+  "instructions": "Read each workplace scenario and choose how you would naturally prefer to respond.",
+  "scenarios": [
+    {
+      "id": "scenario_01",
+      "situation": "Your team is facing a tight deadline, and there's disagreement about the approach.",
+      "responses": [
+        {
+          "label": "A) Take charge and make a decisive call to keep moving forward",
+          "description": "Focus on getting results quickly",
+          "alignedTrait": "dominance",
+          "feedbackTemplates": {
+            "high": "This aligns perfectly with your high dominance! You naturally take charge in pressure situations and make quick decisions to drive results.",
+            "moderate": "This shows some dominance tendencies. You can be decisive when needed, though you might also consider collaborative approaches.",
+            "low": "This approach requires high dominance. With your lower D score, you might prefer a more collaborative or methodical decision-making process."
+          }
+        },
+        {
+          "label": "B) Bring the team together to discuss concerns and build consensus",
+          "description": "Ensure everyone feels heard and motivated",
+          "alignedTrait": "influence",
+          "feedbackTemplates": {
+            "high": "Great choice for your high influence! You value team harmony and ensuring everyone is on board before moving forward.",
+            "moderate": "This reflects moderate influence. You appreciate collaboration but might also be comfortable with quicker decision-making.",
+            "low": "This collaborative approach may feel draining if you have lower influence and prefer working more independently."
+          }
+        },
+        {
+          "label": "C) Suggest a structured plan with clear roles to reduce conflict",
+          "description": "Create stability through organization",
+          "alignedTrait": "steadiness",
+          "feedbackTemplates": {
+            "high": "This aligns with your high steadiness! You naturally want to reduce conflict and create a stable, organized approach.",
+            "moderate": "This shows some steadiness. You value structure but can also be flexible when urgency requires it.",
+            "low": "With lower steadiness, you might actually prefer a more flexible, fast-moving approach rather than detailed planning."
+          }
+        },
+        {
+          "label": "D) Analyze all options thoroughly before deciding on the best path",
+          "description": "Ensure quality through careful evaluation",
+          "alignedTrait": "conscientiousness",
+          "feedbackTemplates": {
+            "high": "Perfect for your high conscientiousness! You want to ensure the decision is well-thought-out and quality-focused.",
+            "moderate": "This reflects moderate conscientiousness. You value analysis but can balance it with timely decision-making.",
+            "low": "This detailed analysis approach may feel slower than you prefer if you have lower conscientiousness and like to move quickly."
+          }
+        }
+      ]
+    },
+    {
+      "id": "scenario_02",
+      "situation": "A colleague comes to you upset about a work issue. How do you respond?",
+      "responses": [
+        {
+          "label": "A) Focus on finding a solution to fix the problem",
+          "description": "Address the issue directly and efficiently",
+          "alignedTrait": "dominance",
+          "feedbackTemplates": {
+            "high": "Your high dominance drives you to solve problems quickly and take action. You want to fix issues, not just talk about them.",
+            "moderate": "You balance problem-solving with empathy. You can fix issues while also considering feelings.",
+            "low": "You might naturally focus more on the emotional aspect before jumping to solutions."
+          }
+        },
+        {
+          "label": "B) Listen empathetically and help them process their feelings",
+          "description": "Provide emotional support and understanding",
+          "alignedTrait": "influence",
+          "feedbackTemplates": {
+            "high": "Your high influence makes you naturally empathetic. You excel at providing emotional support and building rapport.",
+            "moderate": "You can provide support while also thinking practically about solutions.",
+            "low": "You might find extended emotional discussions less comfortable and prefer to focus on facts."
+          }
+        },
+        {
+          "label": "C) Offer consistent support and reassurance",
+          "description": "Be a stable, calming presence",
+          "alignedTrait": "steadiness",
+          "feedbackTemplates": {
+            "high": "Your high steadiness makes you an excellent listener and supportive colleague. You provide calm, patient support.",
+            "moderate": "You can be supportive while also encouraging action when appropriate.",
+            "low": "You might prefer to help them move forward quickly rather than dwelling on the issue."
+          }
+        },
+        {
+          "label": "D) Help them analyze the situation objectively",
+          "description": "Take a logical, systematic approach",
+          "alignedTrait": "conscientiousness",
+          "feedbackTemplates": {
+            "high": "Your high conscientiousness drives you to understand issues thoroughly. You help by bringing logic and analysis.",
+            "moderate": "You balance analytical thinking with emotional awareness.",
+            "low": "You might find it easier to address emotions first before analyzing the situation."
+          }
+        }
+      ]
+    },
+    {
+      "id": "scenario_03",
+      "situation": "Your manager asks you to present your project progress to senior leadership.",
+      "responses": [
+        {
+          "label": "A) Jump at the opportunity to showcase results",
+          "description": "Confident and eager to demonstrate impact",
+          "alignedTrait": "dominance",
+          "feedbackTemplates": {
+            "high": "Your high dominance makes you confident in high-stakes situations. You see this as an opportunity to shine and drive results.",
+            "moderate": "You're comfortable presenting when needed but might prepare carefully first.",
+            "low": "You might feel some nervousness and prefer to have strong support and preparation."
+          }
+        },
+        {
+          "label": "B) Prepare an engaging presentation that tells a compelling story",
+          "description": "Focus on connecting with the audience",
+          "alignedTrait": "influence",
+          "feedbackTemplates": {
+            "high": "Your high influence helps you connect with audiences. You naturally create engaging, persuasive presentations.",
+            "moderate": "You can be engaging while also staying focused on facts and results.",
+            "low": "You might prefer to stick to facts and data rather than storytelling."
+          }
+        },
+        {
+          "label": "C) Feel nervous but prepare thoroughly to ensure success",
+          "description": "Careful preparation to reduce anxiety",
+          "alignedTrait": "steadiness",
+          "feedbackTemplates": {
+            "high": "Your high steadiness means you prefer predictable situations. You'll prepare carefully to manage the stress of presenting.",
+            "moderate": "You balance preparation with confidence. Some nervousness is natural but manageable.",
+            "low": "You might feel less anxiety and be more comfortable with spontaneity in presentations."
+          }
+        },
+        {
+          "label": "D) Create detailed slides with comprehensive data and analysis",
+          "description": "Thorough, fact-based presentation",
+          "alignedTrait": "conscientiousness",
+          "feedbackTemplates": {
+            "high": "Your high conscientiousness drives you to prepare meticulously. You want every detail to be accurate and well-supported.",
+            "moderate": "You balance detail with high-level messaging, providing both depth and clarity.",
+            "low": "You might prefer a simpler, high-level presentation rather than diving into all the details."
+          }
+        }
+      ]
+    },
+    {
+      "id": "scenario_04",
+      "situation": "You're offered a new role that's outside your comfort zone but has growth potential.",
+      "responses": [
+        {
+          "label": "A) See it as an exciting challenge and accept immediately",
+          "description": "Embrace the risk and opportunity",
+          "alignedTrait": "dominance",
+          "feedbackTemplates": {
+            "high": "Your high dominance loves challenges! You're energized by new opportunities and confident in your ability to succeed.",
+            "moderate": "You see the opportunity but want to assess the risks and benefits first.",
+            "low": "You might be more cautious and want to ensure you're well-prepared before accepting."
+          }
+        },
+        {
+          "label": "B) Get excited and talk to others about the possibilities",
+          "description": "Share enthusiasm and gather perspectives",
+          "alignedTrait": "influence",
+          "feedbackTemplates": {
+            "high": "Your high influence makes you enthusiastic about new opportunities! You process decisions by talking them through with others.",
+            "moderate": "You enjoy discussing opportunities but also think independently about what's right for you.",
+            "low": "You might prefer to think through the decision more privately before discussing it widely."
+          }
+        },
+        {
+          "label": "C) Feel uncertain and need time to consider all implications",
+          "description": "Careful deliberation before change",
+          "alignedTrait": "steadiness",
+          "feedbackTemplates": {
+            "high": "Your high steadiness makes you cautious about change. You need time to process and ensure this is the right move.",
+            "moderate": "You balance consideration with openness to new opportunities.",
+            "low": "You're more comfortable with change and might be ready to decide quickly."
+          }
+        },
+        {
+          "label": "D) Research the role thoroughly and create a pros/cons list",
+          "description": "Systematic analysis before deciding",
+          "alignedTrait": "conscientiousness",
+          "feedbackTemplates": {
+            "high": "Your high conscientiousness drives you to analyze thoroughly. You want all the information before making such an important decision.",
+            "moderate": "You gather key information while also trusting your intuition.",
+            "low": "You might be more comfortable making decisions based on gut feel rather than extensive analysis."
+          }
+        }
+      ]
+    },
+    {
+      "id": "scenario_05",
+      "situation": "Your team's weekly meeting often runs over time and lacks clear outcomes.",
+      "responses": [
+        {
+          "label": "A) Take control and push for clear agenda and decisions",
+          "description": "Drive efficiency and results",
+          "alignedTrait": "dominance",
+          "feedbackTemplates": {
+            "high": "Your high dominance is frustrated by inefficiency! You naturally want to take charge and make meetings more productive.",
+            "moderate": "You appreciate efficiency but might balance this with allowing some flexibility for discussion.",
+            "low": "You might be more comfortable letting the meeting flow naturally, even if it's less structured."
+          }
+        },
+        {
+          "label": "B) Suggest making meetings more engaging and collaborative",
+          "description": "Improve energy and participation",
+          "alignedTrait": "influence",
+          "feedbackTemplates": {
+            "high": "Your high influence values engagement! You want meetings to be energizing and collaborative, not just efficient.",
+            "moderate": "You balance engagement with productivity, wanting both connection and results.",
+            "low": "You might prefer shorter, more focused meetings with less social interaction."
+          }
+        },
+        {
+          "label": "C) Continue attending but wish for more structure",
+          "description": "Adapt while hoping for improvement",
+          "alignedTrait": "steadiness",
+          "feedbackTemplates": {
+            "high": "Your high steadiness makes you patient with imperfect processes. You're uncomfortable rocking the boat.",
+            "moderate": "You can speak up for improvements while being diplomatic about it.",
+            "low": "You're more likely to push for change directly rather than waiting and hoping."
+          }
+        },
+        {
+          "label": "D) Create a detailed meeting template with clear objectives",
+          "description": "Systematize for better outcomes",
+          "alignedTrait": "conscientiousness",
+          "feedbackTemplates": {
+            "high": "Your high conscientiousness drives you to create structure and systems. You want meetings to be organized and purposeful.",
+            "moderate": "You appreciate structure but can also be flexible when creativity requires less rigidity.",
+            "low": "You might prefer a simpler approach rather than creating detailed templates."
+          }
+        }
+      ]
+    },
+    {
+      "id": "scenario_06",
+      "situation": "You notice a mistake in a process that could impact quality, but fixing it would slow things down.",
+      "responses": [
+        {
+          "label": "A) Decide if the impact is worth the delay, prioritizing speed",
+          "description": "Balance quality with momentum",
+          "alignedTrait": "dominance",
+          "feedbackTemplates": {
+            "high": "Your high dominance prioritizes results and momentum. You'll fix critical issues but won't let small problems derail progress.",
+            "moderate": "You balance quality and speed, fixing what's important while maintaining momentum.",
+            "low": "You might be more inclined to fix things thoroughly even if it takes longer."
+          }
+        },
+        {
+          "label": "B) Discuss with the team to get buy-in before making changes",
+          "description": "Collaborative problem-solving",
+          "alignedTrait": "influence",
+          "feedbackTemplates": {
+            "high": "Your high influence values team input. You want everyone aligned before making process changes.",
+            "moderate": "You gather input but can also make decisions independently when needed.",
+            "low": "You might prefer to analyze and fix the issue yourself rather than involving many people."
+          }
+        },
+        {
+          "label": "C) Feel torn but follow the established process",
+          "description": "Maintain stability and consistency",
+          "alignedTrait": "steadiness",
+          "feedbackTemplates": {
+            "high": "Your high steadiness values consistency and established processes. You're uncomfortable making changes that could cause disruption.",
+            "moderate": "You respect processes but can advocate for necessary changes.",
+            "low": "You're more comfortable disrupting the process to fix issues quickly."
+          }
+        },
+        {
+          "label": "D) Insist on fixing it properly regardless of timeline",
+          "description": "Quality and accuracy above all",
+          "alignedTrait": "conscientiousness",
+          "feedbackTemplates": {
+            "high": "Your high conscientiousness won't compromise on quality! You believe fixing mistakes properly is essential, even if it takes longer.",
+            "moderate": "You value quality but can prioritize based on impact and urgency.",
+            "low": "You might be more comfortable with 'good enough' solutions that allow you to keep moving forward."
+          }
+        }
+      ]
+    },
+    {
+      "id": "scenario_07",
+      "situation": "You have the option to work on a high-visibility project that requires learning new skills quickly.",
+      "responses": [
+        {
+          "label": "A) Jump in confidently, figuring it out as you go",
+          "description": "Learn through action and experience",
+          "alignedTrait": "dominance",
+          "feedbackTemplates": {
+            "high": "Your high dominance makes you confident taking on challenges! You're comfortable learning on the fly and trust your ability to figure things out.",
+            "moderate": "You're willing to learn new things but might want some preparation first.",
+            "low": "You might prefer to build expertise before taking on high-visibility challenges."
+          }
+        },
+        {
+          "label": "B) Network with people who can teach you and support you",
+          "description": "Leverage relationships for learning",
+          "alignedTrait": "influence",
+          "feedbackTemplates": {
+            "high": "Your high influence leverages relationships for learning! You're excited to connect with experts and learn collaboratively.",
+            "moderate": "You'll seek help when needed but also learn independently.",
+            "low": "You might prefer to learn through documentation or solo practice rather than asking many people for help."
+          }
+        },
+        {
+          "label": "C) Take it on only if you have adequate support and training",
+          "description": "Ensure proper preparation first",
+          "alignedTrait": "steadiness",
+          "feedbackTemplates": {
+            "high": "Your high steadiness wants assurance before tackling unfamiliar territory. You need support and training to feel comfortable.",
+            "moderate": "You want some preparation but can also tolerate some uncertainty.",
+            "low": "You're more comfortable diving into new things without extensive preparation."
+          }
+        },
+        {
+          "label": "D) Study thoroughly before committing to the project",
+          "description": "Master the fundamentals first",
+          "alignedTrait": "conscientiousness",
+          "feedbackTemplates": {
+            "high": "Your high conscientiousness wants to be well-prepared! You'll thoroughly study the requirements before committing.",
+            "moderate": "You'll do some preparation but are also comfortable learning as you go.",
+            "low": "You might prefer to learn through doing rather than extensive upfront study."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,348 @@
+{
+  "version": "1.0",
+  "traits": {
+    "dominance": {
+      "name": "Dominance (D)",
+      "shortDescription": "Results-oriented, assertive, and enjoys challenges",
+      "icon": "💪",
+      "color": "#EF4444",
+      "levels": {
+        "high": {
+          "range": [70, 100],
+          "description": "You're highly results-oriented and driven. You love challenges, take charge naturally, and prefer direct communication. You thrive in fast-paced environments where you can make decisions and see immediate results.",
+          "strengths": [
+            "Decisive and action-oriented",
+            "Comfortable taking charge",
+            "Thrives under pressure",
+            "Direct communicator",
+            "Goal-focused"
+          ],
+          "challenges": [
+            "May be impatient with slower processes",
+            "Can be seen as too direct or blunt",
+            "May overlook details in pursuit of goals",
+            "Might struggle with routine tasks"
+          ],
+          "workPreferences": [
+            "Fast-paced environment",
+            "Autonomy and control",
+            "Competitive settings",
+            "Clear goals and challenges",
+            "Results-driven culture"
+          ],
+          "communicationStyle": "Direct, brief, and focused on outcomes. Prefers getting to the point quickly."
+        },
+        "moderate": {
+          "range": [40, 69],
+          "description": "You balance assertiveness with collaboration. You can take charge when needed but also work well with others. You're comfortable with both challenges and routine.",
+          "strengths": [
+            "Flexible leadership",
+            "Balanced approach",
+            "Adaptable"
+          ],
+          "challenges": [
+            "May struggle to assert in highly competitive settings"
+          ],
+          "workPreferences": [
+            "Mix of structure and autonomy",
+            "Varied responsibilities"
+          ],
+          "communicationStyle": "Balanced - direct when needed, diplomatic when appropriate."
+        },
+        "low": {
+          "range": [0, 39],
+          "description": "You prefer collaboration over competition and are thoughtful about decisions. You're comfortable supporting others and value careful planning over quick action.",
+          "strengths": [
+            "Thoughtful decision-maker",
+            "Team-oriented",
+            "Patient",
+            "Good listener"
+          ],
+          "challenges": [
+            "May avoid confrontation",
+            "Slower to make decisions"
+          ],
+          "workPreferences": [
+            "Collaborative environment",
+            "Clear processes",
+            "Supportive team"
+          ],
+          "communicationStyle": "Thoughtful and diplomatic. Takes time to consider responses."
+        }
+      },
+      "careerExamples": {
+        "high": ["Executive", "Entrepreneur", "Sales Manager", "Emergency Response", "Consultant"],
+        "moderate": ["Project Manager", "Team Leader", "Business Analyst"],
+        "low": ["Researcher", "Librarian", "Technical Writer", "Accountant"]
+      }
+    },
+    "influence": {
+      "name": "Influence (I)",
+      "shortDescription": "Sociable, persuasive, and thrives on collaboration",
+      "icon": "🤝",
+      "color": "#F59E0B",
+      "levels": {
+        "high": {
+          "range": [70, 100],
+          "description": "You're naturally outgoing, enthusiastic, and persuasive. You love working with people, building relationships, and creating positive energy. You thrive in social, collaborative environments where you can inspire and motivate others.",
+          "strengths": [
+            "Excellent communicator",
+            "Builds relationships easily",
+            "Persuasive and influential",
+            "Enthusiastic team player",
+            "Creates positive environment"
+          ],
+          "challenges": [
+            "May be overly optimistic",
+            "Can struggle with detail-oriented tasks",
+            "May avoid conflict to maintain harmony",
+            "Needs social interaction to stay motivated"
+          ],
+          "workPreferences": [
+            "Team-based environment",
+            "People-facing roles",
+            "Social interaction",
+            "Collaborative projects",
+            "Recognition and appreciation"
+          ],
+          "communicationStyle": "Warm, enthusiastic, and expressive. Focuses on building rapport."
+        },
+        "moderate": {
+          "range": [40, 69],
+          "description": "You balance social interaction with independent work. You enjoy collaboration but also appreciate time alone. You're comfortable building relationships without needing constant social engagement.",
+          "strengths": [
+            "Flexible communication",
+            "Balanced social needs",
+            "Adaptable"
+          ],
+          "challenges": [
+            "May struggle in extremely social or isolated roles"
+          ],
+          "workPreferences": [
+            "Mix of teamwork and solo work",
+            "Moderate social interaction"
+          ],
+          "communicationStyle": "Friendly and approachable, but can also be reserved when needed."
+        },
+        "low": {
+          "range": [0, 39],
+          "description": "You prefer working independently or in small groups. You're more reserved in social settings and communicate in a more serious, factual manner. You focus on tasks rather than socializing.",
+          "strengths": [
+            "Independent worker",
+            "Focused on tasks",
+            "Thoughtful communicator"
+          ],
+          "challenges": [
+            "May struggle with networking",
+            "Less comfortable in large group settings"
+          ],
+          "workPreferences": [
+            "Independent work",
+            "Small teams",
+            "Task-focused environment"
+          ],
+          "communicationStyle": "Reserved and factual. Prefers written communication or one-on-one."
+        }
+      },
+      "careerExamples": {
+        "high": ["Marketing Manager", "HR Specialist", "Teacher", "Event Planner", "Public Relations"],
+        "moderate": ["Customer Success", "Product Manager", "Consultant"],
+        "low": ["Software Developer", "Data Analyst", "Lab Researcher", "Writer"]
+      }
+    },
+    "steadiness": {
+      "name": "Steadiness (S)",
+      "shortDescription": "Calm, dependable, and prefers consistency",
+      "icon": "🛡️",
+      "color": "#10B981",
+      "levels": {
+        "high": {
+          "range": [70, 100],
+          "description": "You're patient, reliable, and value stability. You prefer consistent routines, clear expectations, and harmonious environments. You're a supportive team member who builds trust through dependability.",
+          "strengths": [
+            "Reliable and consistent",
+            "Patient and calm under pressure",
+            "Excellent listener",
+            "Supportive team member",
+            "Builds lasting relationships"
+          ],
+          "challenges": [
+            "May resist change",
+            "Can be slow to adapt to new situations",
+            "May avoid conflict at all costs",
+            "Difficulty saying no"
+          ],
+          "workPreferences": [
+            "Stable, predictable environment",
+            "Clear processes and expectations",
+            "Supportive team culture",
+            "Low-stress atmosphere",
+            "Gradual change"
+          ],
+          "communicationStyle": "Calm, patient, and supportive. Takes time to build trust."
+        },
+        "moderate": {
+          "range": [40, 69],
+          "description": "You balance stability with flexibility. You appreciate routine but can adapt to change when needed. You're supportive without being overly accommodating.",
+          "strengths": [
+            "Balanced approach to change",
+            "Adaptable yet stable",
+            "Dependable"
+          ],
+          "challenges": [
+            "May struggle with extreme instability or rapid change"
+          ],
+          "workPreferences": [
+            "Some structure with flexibility",
+            "Manageable pace of change"
+          ],
+          "communicationStyle": "Balanced - supportive but can also be direct when needed."
+        },
+        "low": {
+          "range": [0, 39],
+          "description": "You embrace change and variety. You're comfortable with fast-paced environments, quick decisions, and shifting priorities. You prefer action over routine.",
+          "strengths": [
+            "Adaptable",
+            "Comfortable with change",
+            "Quick to respond"
+          ],
+          "challenges": [
+            "May struggle with repetitive tasks",
+            "Can be restless in stable environments"
+          ],
+          "workPreferences": [
+            "Dynamic environment",
+            "Variety in tasks",
+            "Fast-paced change"
+          ],
+          "communicationStyle": "Energetic and direct. Comfortable with quick exchanges."
+        }
+      },
+      "careerExamples": {
+        "high": ["Counselor", "Nurse", "Customer Service", "Social Worker", "Teacher"],
+        "moderate": ["Project Coordinator", "Operations Manager", "HR Generalist"],
+        "low": ["Startup Founder", "Emergency Responder", "Sales Executive", "Journalist"]
+      }
+    },
+    "conscientiousness": {
+      "name": "Conscientiousness (C)",
+      "shortDescription": "Detail-oriented, analytical, and values accuracy",
+      "icon": "🎯",
+      "color": "#3B82F6",
+      "levels": {
+        "high": {
+          "range": [70, 100],
+          "description": "You're analytical, detail-oriented, and value accuracy and quality. You prefer structured environments with clear standards. You think systematically and focus on getting things right.",
+          "strengths": [
+            "Highly detail-oriented",
+            "Analytical thinker",
+            "Quality-focused",
+            "Organized and systematic",
+            "Thorough and careful"
+          ],
+          "challenges": [
+            "May get stuck in analysis",
+            "Can be perfectionistic",
+            "May struggle with ambiguity",
+            "Slower decision-making process"
+          ],
+          "workPreferences": [
+            "Structured environment",
+            "Clear standards and procedures",
+            "Time for analysis and planning",
+            "Quality-focused culture",
+            "Minimal ambiguity"
+          ],
+          "communicationStyle": "Precise, detailed, and formal. Focuses on facts and data."
+        },
+        "moderate": {
+          "range": [40, 69],
+          "description": "You balance attention to detail with big-picture thinking. You value quality but can also be flexible when needed. You're organized without being rigid.",
+          "strengths": [
+            "Balanced attention to detail",
+            "Flexible problem-solver",
+            "Practical"
+          ],
+          "challenges": [
+            "May struggle with extreme chaos or rigid structure"
+          ],
+          "workPreferences": [
+            "Some structure with flexibility",
+            "Clear goals but flexible methods"
+          ],
+          "communicationStyle": "Balanced - can be detailed or high-level as needed."
+        },
+        "low": {
+          "range": [0, 39],
+          "description": "You prefer the big picture over details. You're comfortable with ambiguity and quick decisions. You focus on innovation and moving forward rather than perfecting processes.",
+          "strengths": [
+            "Big-picture thinker",
+            "Comfortable with ambiguity",
+            "Quick decision-maker"
+          ],
+          "challenges": [
+            "May overlook important details",
+            "Can be disorganized"
+          ],
+          "workPreferences": [
+            "Flexible, innovative environment",
+            "Focus on ideas over processes"
+          ],
+          "communicationStyle": "Informal and conceptual. Focuses on big ideas over details."
+        }
+      },
+      "careerExamples": {
+        "high": ["Engineer", "Financial Analyst", "Quality Assurance", "Scientist", "Auditor"],
+        "moderate": ["Business Analyst", "Technical Writer", "Project Manager"],
+        "low": ["Creative Director", "Entrepreneur", "Performer", "Marketing Strategist"]
+      }
+    }
+  },
+  "profileTypes": {
+    "D_dominant": {
+      "pattern": ["D > 70", "Others < 70"],
+      "name": "The Driver",
+      "description": "Results-focused leader who thrives on challenges and making things happen."
+    },
+    "I_dominant": {
+      "pattern": ["I > 70", "Others < 70"],
+      "name": "The Influencer",
+      "description": "People-oriented communicator who inspires and motivates others."
+    },
+    "S_dominant": {
+      "pattern": ["S > 70", "Others < 70"],
+      "name": "The Supporter",
+      "description": "Stable, reliable team member who creates harmonious environments."
+    },
+    "C_dominant": {
+      "pattern": ["C > 70", "Others < 70"],
+      "name": "The Analyst",
+      "description": "Detail-oriented perfectionist who ensures quality and accuracy."
+    },
+    "DI_blend": {
+      "pattern": ["D > 60 && I > 60"],
+      "name": "The Inspirational Leader",
+      "description": "Combines drive with people skills to lead and motivate teams."
+    },
+    "DC_blend": {
+      "pattern": ["D > 60 && C > 60"],
+      "name": "The Strategic Executor",
+      "description": "Results-driven with attention to quality and detail."
+    },
+    "IS_blend": {
+      "pattern": ["I > 60 && S > 60"],
+      "name": "The Team Builder",
+      "description": "Creates positive, stable team environments through relationships."
+    },
+    "SC_blend": {
+      "pattern": ["S > 60 && C > 60"],
+      "name": "The Reliable Specialist",
+      "description": "Combines stability with quality focus for consistent excellence."
+    },
+    "balanced": {
+      "pattern": ["All traits between 40-70"],
+      "name": "The Versatile Adapter",
+      "description": "Balanced profile that can adapt to various situations and roles."
+    }
+  }
+}

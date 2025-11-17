@@ -1,0 +1,558 @@
+{
+  "version": "1.0",
+  "instructions": "Choose the option that best describes you in each scenario. There are no right or wrong answers.",
+  "questions": [
+    {
+      "id": "disc_q01",
+      "scenario": "When working on a team project, you typically...",
+      "options": [
+        {
+          "label": "A) Take charge and set the direction",
+          "description": "You naturally step into leadership and drive results",
+          "weights": {
+            "dominance": 3,
+            "influence": 0,
+            "steadiness": 0,
+            "conscientiousness": 0
+          }
+        },
+        {
+          "label": "B) Build relationships and motivate team members",
+          "description": "You focus on team morale and collaboration",
+          "weights": {
+            "dominance": 0,
+            "influence": 3,
+            "steadiness": 1,
+            "conscientiousness": 0
+          }
+        },
+        {
+          "label": "C) Provide support and ensure everyone is comfortable",
+          "description": "You create a harmonious, stable team environment",
+          "weights": {
+            "dominance": 0,
+            "influence": 1,
+            "steadiness": 3,
+            "conscientiousness": 0
+          }
+        },
+        {
+          "label": "D) Focus on quality and ensure everything is done correctly",
+          "description": "You emphasize accuracy, standards, and thoroughness",
+          "weights": {
+            "dominance": 0,
+            "influence": 0,
+            "steadiness": 0,
+            "conscientiousness": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": "disc_q02",
+      "scenario": "When faced with a challenging problem, you prefer to...",
+      "options": [
+        {
+          "label": "A) Attack it head-on and find a solution quickly",
+          "description": "You tackle challenges directly and decisively",
+          "weights": {
+            "dominance": 3,
+            "influence": 0,
+            "steadiness": 0,
+            "conscientiousness": 0
+          }
+        },
+        {
+          "label": "B) Brainstorm with others to find creative solutions",
+          "description": "You leverage collaboration and diverse perspectives",
+          "weights": {
+            "dominance": 0,
+            "influence": 3,
+            "steadiness": 0,
+            "conscientiousness": 0
+          }
+        },
+        {
+          "label": "C) Take your time to consider all angles carefully",
+          "description": "You prefer a methodical, patient approach",
+          "weights": {
+            "dominance": 0,
+            "influence": 0,
+            "steadiness": 3,
+            "conscientiousness": 1
+          }
+        },
+        {
+          "label": "D) Research thoroughly and analyze all the data",
+          "description": "You gather facts and make systematic decisions",
+          "weights": {
+            "dominance": 0,
+            "influence": 0,
+            "steadiness": 0,
+            "conscientiousness": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": "disc_q03",
+      "scenario": "In social or work gatherings, you usually...",
+      "options": [
+        {
+          "label": "A) Network strategically to advance your goals",
+          "description": "You use social time to build useful connections",
+          "weights": {
+            "dominance": 3,
+            "influence": 1,
+            "steadiness": 0,
+            "conscientiousness": 0
+          }
+        },
+        {
+          "label": "B) Enjoy meeting new people and having lively conversations",
+          "description": "You thrive on social interaction and energy",
+          "weights": {
+            "dominance": 0,
+            "influence": 3,
+            "steadiness": 0,
+            "conscientiousness": 0
+          }
+        },
+        {
+          "label": "C) Stick with a few close friends or colleagues",
+          "description": "You prefer smaller, more comfortable groups",
+          "weights": {
+            "dominance": 0,
+            "influence": 0,
+            "steadiness": 3,
+            "conscientiousness": 1
+          }
+        },
+        {
+          "label": "D) Observe and listen more than you talk",
+          "description": "You take in information and think before speaking",
+          "weights": {
+            "dominance": 0,
+            "influence": 0,
+            "steadiness": 1,
+            "conscientiousness": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": "disc_q04",
+      "scenario": "When things don't go according to plan, you...",
+      "options": [
+        {
+          "label": "A) Quickly adapt and push forward with a new approach",
+          "description": "You pivot decisively and keep moving",
+          "weights": {
+            "dominance": 3,
+            "influence": 0,
+            "steadiness": 0,
+            "conscientiousness": 0
+          }
+        },
+        {
+          "label": "B) Rally the team and maintain positive energy",
+          "description": "You keep morale high and people motivated",
+          "weights": {
+            "dominance": 0,
+            "influence": 3,
+            "steadiness": 0,
+            "conscientiousness": 0
+          }
+        },
+        {
+          "label": "C) Feel uncomfortable but try to maintain stability",
+          "description": "You work to restore order and calm",
+          "weights": {
+            "dominance": 0,
+            "influence": 0,
+            "steadiness": 3,
+            "conscientiousness": 0
+          }
+        },
+        {
+          "label": "D) Analyze what went wrong to prevent future issues",
+          "description": "You investigate root causes systematically",
+          "weights": {
+            "dominance": 0,
+            "influence": 0,
+            "steadiness": 0,
+            "conscientiousness": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": "disc_q05",
+      "scenario": "Your ideal work environment is one that is...",
+      "options": [
+        {
+          "label": "A) Fast-paced, competitive, and results-driven",
+          "description": "You thrive on urgency and achievement",
+          "weights": {
+            "dominance": 3,
+            "influence": 0,
+            "steadiness": 0,
+            "conscientiousness": 0
+          }
+        },
+        {
+          "label": "B) Collaborative, energetic, and people-focused",
+          "description": "You value teamwork and positive relationships",
+          "weights": {
+            "dominance": 0,
+            "influence": 3,
+            "steadiness": 0,
+            "conscientiousness": 0
+          }
+        },
+        {
+          "label": "C) Stable, supportive, and low-stress",
+          "description": "You prefer predictability and harmony",
+          "weights": {
+            "dominance": 0,
+            "influence": 0,
+            "steadiness": 3,
+            "conscientiousness": 0
+          }
+        },
+        {
+          "label": "D) Organized, structured, and detail-oriented",
+          "description": "You appreciate clear systems and standards",
+          "weights": {
+            "dominance": 0,
+            "influence": 0,
+            "steadiness": 0,
+            "conscientiousness": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": "disc_q06",
+      "scenario": "When making important decisions, you prioritize...",
+      "options": [
+        {
+          "label": "A) Speed and efficiency to get results fast",
+          "description": "You make quick, decisive choices",
+          "weights": {
+            "dominance": 3,
+            "influence": 0,
+            "steadiness": 0,
+            "conscientiousness": 0
+          }
+        },
+        {
+          "label": "B) How the decision will impact people and relationships",
+          "description": "You consider the human element first",
+          "weights": {
+            "dominance": 0,
+            "influence": 3,
+            "steadiness": 1,
+            "conscientiousness": 0
+          }
+        },
+        {
+          "label": "C) Minimizing risk and maintaining stability",
+          "description": "You choose safe, proven options",
+          "weights": {
+            "dominance": 0,
+            "influence": 0,
+            "steadiness": 3,
+            "conscientiousness": 1
+          }
+        },
+        {
+          "label": "D) Accuracy and having all the necessary information",
+          "description": "You gather data and analyze thoroughly",
+          "weights": {
+            "dominance": 0,
+            "influence": 0,
+            "steadiness": 0,
+            "conscientiousness": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": "disc_q07",
+      "scenario": "In your communication style, you tend to be...",
+      "options": [
+        {
+          "label": "A) Direct and to the point",
+          "description": "You get straight to what matters",
+          "weights": {
+            "dominance": 3,
+            "influence": 0,
+            "steadiness": 0,
+            "conscientiousness": 0
+          }
+        },
+        {
+          "label": "B) Warm, expressive, and engaging",
+          "description": "You connect emotionally and build rapport",
+          "weights": {
+            "dominance": 0,
+            "influence": 3,
+            "steadiness": 0,
+            "conscientiousness": 0
+          }
+        },
+        {
+          "label": "C) Patient, calm, and supportive",
+          "description": "You listen carefully and respond thoughtfully",
+          "weights": {
+            "dominance": 0,
+            "influence": 0,
+            "steadiness": 3,
+            "conscientiousness": 0
+          }
+        },
+        {
+          "label": "D) Precise, detailed, and factual",
+          "description": "You focus on accuracy and clarity",
+          "weights": {
+            "dominance": 0,
+            "influence": 0,
+            "steadiness": 0,
+            "conscientiousness": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": "disc_q08",
+      "scenario": "When you're under pressure or stress, you typically...",
+      "options": [
+        {
+          "label": "A) Become more assertive and take control",
+          "description": "You channel stress into decisive action",
+          "weights": {
+            "dominance": 3,
+            "influence": 0,
+            "steadiness": 0,
+            "conscientiousness": 0
+          }
+        },
+        {
+          "label": "B) Seek support from others and talk it through",
+          "description": "You process stress through social connection",
+          "weights": {
+            "dominance": 0,
+            "influence": 3,
+            "steadiness": 0,
+            "conscientiousness": 0
+          }
+        },
+        {
+          "label": "C) Withdraw and need time to regroup",
+          "description": "You prefer quiet stability to recover",
+          "weights": {
+            "dominance": 0,
+            "influence": 0,
+            "steadiness": 3,
+            "conscientiousness": 1
+          }
+        },
+        {
+          "label": "D) Focus on what you can control and organize",
+          "description": "You create order to manage stress",
+          "weights": {
+            "dominance": 0,
+            "influence": 0,
+            "steadiness": 0,
+            "conscientiousness": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": "disc_q09",
+      "scenario": "In a conflict situation, you're most likely to...",
+      "options": [
+        {
+          "label": "A) Confront it directly and work to resolve it quickly",
+          "description": "You address conflicts head-on",
+          "weights": {
+            "dominance": 3,
+            "influence": 0,
+            "steadiness": 0,
+            "conscientiousness": 0
+          }
+        },
+        {
+          "label": "B) Try to smooth things over and restore harmony",
+          "description": "You mediate and focus on relationships",
+          "weights": {
+            "dominance": 0,
+            "influence": 3,
+            "steadiness": 1,
+            "conscientiousness": 0
+          }
+        },
+        {
+          "label": "C) Avoid it if possible or give in to keep peace",
+          "description": "You prefer stability over confrontation",
+          "weights": {
+            "dominance": 0,
+            "influence": 0,
+            "steadiness": 3,
+            "conscientiousness": 0
+          }
+        },
+        {
+          "label": "D) Analyze the situation objectively before responding",
+          "description": "You take a logical, measured approach",
+          "weights": {
+            "dominance": 0,
+            "influence": 0,
+            "steadiness": 0,
+            "conscientiousness": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": "disc_q10",
+      "scenario": "When starting a new project, you first...",
+      "options": [
+        {
+          "label": "A) Jump in and start taking action immediately",
+          "description": "You learn by doing and moving fast",
+          "weights": {
+            "dominance": 3,
+            "influence": 0,
+            "steadiness": 0,
+            "conscientiousness": 0
+          }
+        },
+        {
+          "label": "B) Get excited and share ideas with others",
+          "description": "You brainstorm and build enthusiasm",
+          "weights": {
+            "dominance": 0,
+            "influence": 3,
+            "steadiness": 0,
+            "conscientiousness": 0
+          }
+        },
+        {
+          "label": "C) Review existing processes and understand expectations",
+          "description": "You want clarity before proceeding",
+          "weights": {
+            "dominance": 0,
+            "influence": 0,
+            "steadiness": 3,
+            "conscientiousness": 1
+          }
+        },
+        {
+          "label": "D) Create a detailed plan and organize all the steps",
+          "description": "You map everything out systematically",
+          "weights": {
+            "dominance": 0,
+            "influence": 0,
+            "steadiness": 0,
+            "conscientiousness": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": "disc_q11",
+      "scenario": "Your biggest strength in a work setting is...",
+      "options": [
+        {
+          "label": "A) Getting things done and achieving results",
+          "description": "You deliver outcomes efficiently",
+          "weights": {
+            "dominance": 3,
+            "influence": 0,
+            "steadiness": 0,
+            "conscientiousness": 0
+          }
+        },
+        {
+          "label": "B) Building relationships and inspiring others",
+          "description": "You connect with and motivate people",
+          "weights": {
+            "dominance": 0,
+            "influence": 3,
+            "steadiness": 0,
+            "conscientiousness": 0
+          }
+        },
+        {
+          "label": "C) Being dependable and supportive",
+          "description": "You provide steady, reliable support",
+          "weights": {
+            "dominance": 0,
+            "influence": 0,
+            "steadiness": 3,
+            "conscientiousness": 0
+          }
+        },
+        {
+          "label": "D) Ensuring quality and accuracy",
+          "description": "You maintain high standards consistently",
+          "weights": {
+            "dominance": 0,
+            "influence": 0,
+            "steadiness": 0,
+            "conscientiousness": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": "disc_q12",
+      "scenario": "You feel most energized when...",
+      "options": [
+        {
+          "label": "A) You're in charge and driving toward a goal",
+          "description": "You gain energy from leadership and progress",
+          "weights": {
+            "dominance": 3,
+            "influence": 0,
+            "steadiness": 0,
+            "conscientiousness": 0
+          }
+        },
+        {
+          "label": "B) You're collaborating and connecting with people",
+          "description": "You thrive on social interaction",
+          "weights": {
+            "dominance": 0,
+            "influence": 3,
+            "steadiness": 0,
+            "conscientiousness": 0
+          }
+        },
+        {
+          "label": "C) You're in a calm, predictable routine",
+          "description": "You find comfort in stability",
+          "weights": {
+            "dominance": 0,
+            "influence": 0,
+            "steadiness": 3,
+            "conscientiousness": 0
+          }
+        },
+        {
+          "label": "D) You're solving complex problems methodically",
+          "description": "You enjoy analytical challenges",
+          "weights": {
+            "dominance": 0,
+            "influence": 0,
+            "steadiness": 0,
+            "conscientiousness": 3
+          }
+        }
+      ]
+    }
+  ]
+}

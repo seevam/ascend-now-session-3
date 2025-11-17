@@ -1,0 +1,1155 @@
+{
+  "version": "1.0",
+  "careerCriteria": {
+    "ux_designer": {
+      "careerTitle": "UX/UI Designer",
+      "cluster": "arts_av_communication",
+      "discTraits": {
+        "primary": ["influence", "conscientiousness"],
+        "secondary": ["dominance"],
+        "avoid": []
+      },
+      "typeFinderTypes": {
+        "ideal": ["INFP", "ENFP", "INTP", "ENTP"],
+        "suitable": ["INFJ", "ENFJ", "INTJ", "ENTJ"]
+      },
+      "workEnvironment": {
+        "pace": "moderate",
+        "structure": "moderate",
+        "socialLevel": "moderate",
+        "autonomy": "high"
+      },
+      "keyTraits": [
+        "Creative problem-solver",
+        "Empathetic (understands user needs)",
+        "Detail-oriented",
+        "Collaborative",
+        "Analytical thinking"
+      ],
+      "reasoning": {
+        "high_I": "Your influence trait helps you understand and advocate for users, communicate design decisions, and collaborate with stakeholders.",
+        "high_C": "Your conscientiousness ensures attention to detail in design systems, consistency, and thorough user research.",
+        "high_D": "Your dominance helps you lead design initiatives and make decisive choices in ambiguous situations.",
+        "low_S": "If you have low steadiness, the variety and change in UX design keeps you engaged."
+      },
+      "considerations": {
+        "high_D_low_I": "High dominance without influence may struggle with the collaborative, user-empathy aspects.",
+        "high_S_low_C": "High steadiness without conscientiousness may struggle with rapid iteration and detailed specs."
+      }
+    },
+    "software_engineer": {
+      "careerTitle": "Software Engineer",
+      "cluster": "information_technology",
+      "discTraits": {
+        "primary": ["conscientiousness"],
+        "secondary": ["dominance", "steadiness"],
+        "avoid": []
+      },
+      "typeFinderTypes": {
+        "ideal": ["INTJ", "INTP", "ISTJ", "ISTP"],
+        "suitable": ["ENTJ", "ENTP", "ESTJ", "ESTP"]
+      },
+      "workEnvironment": {
+        "pace": "moderate",
+        "structure": "moderate",
+        "socialLevel": "low",
+        "autonomy": "high"
+      },
+      "keyTraits": [
+        "Logical thinker",
+        "Problem-solver",
+        "Detail-oriented",
+        "Patient with complex problems",
+        "Continuous learner"
+      ],
+      "reasoning": {
+        "high_C": "Your conscientiousness ensures code quality, thorough testing, and systematic problem-solving.",
+        "high_D": "Your dominance helps you tackle challenging problems and take ownership of projects.",
+        "high_S": "Your steadiness provides patience for debugging and maintaining stable systems.",
+        "low_I": "If you have low influence, you'll appreciate the more independent, less socially-demanding nature of coding."
+      },
+      "considerations": {
+        "high_I_low_C": "High influence without conscientiousness may struggle with the detail-oriented, solitary aspects of coding.",
+        "low_C": "Low conscientiousness may struggle with debugging, testing, and maintaining code quality."
+      }
+    },
+    "marketing_manager": {
+      "careerTitle": "Marketing Manager",
+      "cluster": "marketing",
+      "discTraits": {
+        "primary": ["influence", "dominance"],
+        "secondary": ["conscientiousness"],
+        "avoid": []
+      },
+      "typeFinderTypes": {
+        "ideal": ["ENFP", "ENTP", "ENFJ", "ENTJ"],
+        "suitable": ["ESFP", "ESTP", "ESFJ", "ESTJ"]
+      },
+      "workEnvironment": {
+        "pace": "fast",
+        "structure": "moderate",
+        "socialLevel": "high",
+        "autonomy": "high"
+      },
+      "keyTraits": [
+        "Persuasive communicator",
+        "Creative strategist",
+        "Data-driven decision maker",
+        "Team leader",
+        "Brand storyteller"
+      ],
+      "reasoning": {
+        "high_I": "Your influence trait is perfect for building relationships, persuading audiences, and creating compelling brand stories.",
+        "high_D": "Your dominance drives campaign execution, quick decision-making, and results focus.",
+        "high_C": "Your conscientiousness helps with data analysis, campaign tracking, and systematic testing.",
+        "low_S": "If you have low steadiness, you'll thrive in the fast-paced, ever-changing marketing landscape."
+      },
+      "considerations": {
+        "low_I": "Low influence may struggle with the highly social, persuasive nature of marketing.",
+        "high_S": "High steadiness may find the rapid pace and constant change challenging."
+      }
+    },
+    "teacher": {
+      "careerTitle": "Teacher (K-12)",
+      "cluster": "education_training",
+      "discTraits": {
+        "primary": ["influence", "steadiness"],
+        "secondary": ["conscientiousness"],
+        "avoid": []
+      },
+      "typeFinderTypes": {
+        "ideal": ["ENFJ", "ESFJ", "INFJ", "ISFJ"],
+        "suitable": ["ENFP", "ESFP", "INFP", "ISFP"]
+      },
+      "workEnvironment": {
+        "pace": "moderate",
+        "structure": "high",
+        "socialLevel": "high",
+        "autonomy": "moderate"
+      },
+      "keyTraits": [
+        "Patient",
+        "Excellent communicator",
+        "Empathetic",
+        "Organized",
+        "Passionate about helping others"
+      ],
+      "reasoning": {
+        "high_I": "Your influence helps you engage students, build relationships, and create an enthusiastic learning environment.",
+        "high_S": "Your steadiness provides the patience and consistency students need. You create a stable, supportive classroom.",
+        "high_C": "Your conscientiousness ensures thorough lesson planning, grading accuracy, and meeting educational standards.",
+        "moderate_D": "Some dominance helps with classroom management and maintaining authority."
+      },
+      "considerations": {
+        "low_I": "Low influence may struggle with the highly social, relationship-focused nature of teaching.",
+        "low_S": "Low steadiness may find the routine and repetition of teaching challenging."
+      }
+    },
+    "nurse": {
+      "careerTitle": "Registered Nurse",
+      "cluster": "health_science",
+      "discTraits": {
+        "primary": ["steadiness", "conscientiousness"],
+        "secondary": ["influence"],
+        "avoid": []
+      },
+      "typeFinderTypes": {
+        "ideal": ["ISFJ", "ESFJ", "ISTJ", "ESTJ"],
+        "suitable": ["INFJ", "ENFJ", "INTJ", "ENTJ"]
+      },
+      "workEnvironment": {
+        "pace": "fast",
+        "structure": "high",
+        "socialLevel": "high",
+        "autonomy": "moderate"
+      },
+      "keyTraits": [
+        "Compassionate",
+        "Detail-oriented",
+        "Calm under pressure",
+        "Team player",
+        "Strong work ethic"
+      ],
+      "reasoning": {
+        "high_S": "Your steadiness provides calm, patient care. You're reliable and supportive during difficult times.",
+        "high_C": "Your conscientiousness ensures accurate medication administration, thorough documentation, and following protocols.",
+        "high_I": "Your influence helps you connect with patients, provide emotional support, and collaborate with healthcare teams.",
+        "moderate_D": "Some dominance helps with quick decision-making in emergencies."
+      },
+      "considerations": {
+        "low_S": "Low steadiness may struggle with the emotional demands and routine aspects of nursing.",
+        "low_C": "Low conscientiousness may struggle with the critical attention to detail required for patient safety."
+      }
+    },
+    "accountant": {
+      "careerTitle": "Accountant",
+      "cluster": "finance",
+      "discTraits": {
+        "primary": ["conscientiousness"],
+        "secondary": ["steadiness"],
+        "avoid": []
+      },
+      "typeFinderTypes": {
+        "ideal": ["ISTJ", "INTJ", "ESTJ", "ENTJ"],
+        "suitable": ["ISFJ", "INFJ", "ESFJ", "ENFJ"]
+      },
+      "workEnvironment": {
+        "pace": "moderate",
+        "structure": "high",
+        "socialLevel": "low",
+        "autonomy": "moderate"
+      },
+      "keyTraits": [
+        "Highly analytical",
+        "Detail-oriented",
+        "Ethical",
+        "Organized",
+        "Patient with numbers"
+      ],
+      "reasoning": {
+        "high_C": "Your conscientiousness is essential for accuracy, attention to detail, and thorough financial analysis.",
+        "high_S": "Your steadiness provides the patience and consistency needed for routine financial tasks and processes.",
+        "low_I": "If you have low influence, you'll appreciate the more independent, task-focused nature of accounting.",
+        "low_D": "Lower dominance is fine for most accounting roles, which focus on accuracy over speed."
+      },
+      "considerations": {
+        "low_C": "Low conscientiousness will struggle significantly with the detail-oriented, precision-demanding nature of accounting.",
+        "high_D_low_C": "High dominance without conscientiousness may rush through work and miss critical details."
+      }
+    },
+    "social_worker": {
+      "careerTitle": "Social Worker",
+      "cluster": "human_services",
+      "discTraits": {
+        "primary": ["steadiness", "influence"],
+        "secondary": ["conscientiousness"],
+        "avoid": []
+      },
+      "typeFinderTypes": {
+        "ideal": ["INFJ", "ENFJ", "ISFJ", "ESFJ"],
+        "suitable": ["INFP", "ENFP", "ISFP", "ESFP"]
+      },
+      "workEnvironment": {
+        "pace": "moderate",
+        "structure": "moderate",
+        "socialLevel": "high",
+        "autonomy": "moderate"
+      },
+      "keyTraits": [
+        "Empathetic",
+        "Patient",
+        "Strong advocate",
+        "Emotionally resilient",
+        "Problem-solver"
+      ],
+      "reasoning": {
+        "high_S": "Your steadiness provides the patience, calm, and emotional support needed when working with vulnerable populations.",
+        "high_I": "Your influence helps you build trust, advocate effectively, and connect with diverse clients and stakeholders.",
+        "high_C": "Your conscientiousness ensures thorough case documentation, following regulations, and detailed planning.",
+        "moderate_D": "Some dominance helps with advocacy and navigating bureaucratic systems."
+      },
+      "considerations": {
+        "low_S": "Low steadiness may struggle with the emotional demands and patience required in social work.",
+        "low_I": "Low influence may find the relationship-building and advocacy aspects challenging."
+      }
+    },
+    "entrepreneur": {
+      "careerTitle": "Entrepreneur/Startup Founder",
+      "cluster": "business_management_administration",
+      "discTraits": {
+        "primary": ["dominance"],
+        "secondary": ["influence", "conscientiousness"],
+        "avoid": []
+      },
+      "typeFinderTypes": {
+        "ideal": ["ENTJ", "ENTP", "ESTJ", "ESTP"],
+        "suitable": ["INTJ", "INTP", "ENFJ", "ENFP"]
+      },
+      "workEnvironment": {
+        "pace": "fast",
+        "structure": "low",
+        "socialLevel": "moderate",
+        "autonomy": "high"
+      },
+      "keyTraits": [
+        "Risk-taker",
+        "Visionary",
+        "Self-motivated",
+        "Resilient",
+        "Decisive"
+      ],
+      "reasoning": {
+        "high_D": "Your dominance is essential for entrepreneurship! You take charge, make quick decisions, and drive toward goals despite obstacles.",
+        "high_I": "Your influence helps with pitching, networking, building teams, and selling your vision.",
+        "high_C": "Your conscientiousness helps with business planning, financial management, and quality products/services.",
+        "low_S": "Low steadiness is actually beneficial here - you embrace the uncertainty and rapid change of startup life."
+      },
+      "considerations": {
+        "low_D": "Low dominance may struggle with the assertiveness and risk-taking required in entrepreneurship.",
+        "high_S": "High steadiness may find the instability and constant change of entrepreneurship stressful."
+      }
+    },
+    "data_analyst": {
+      "careerTitle": "Data Analyst",
+      "cluster": "information_technology",
+      "discTraits": {
+        "primary": ["conscientiousness"],
+        "secondary": ["steadiness"],
+        "avoid": []
+      },
+      "typeFinderTypes": {
+        "ideal": ["INTJ", "INTP", "ISTJ", "ISTP"],
+        "suitable": ["ENTJ", "ENTP", "ESTJ", "ESTP"]
+      },
+      "workEnvironment": {
+        "pace": "moderate",
+        "structure": "moderate",
+        "socialLevel": "low",
+        "autonomy": "high"
+      },
+      "keyTraits": [
+        "Analytical thinker",
+        "Detail-oriented",
+        "Problem-solver",
+        "Patient with data",
+        "Curious"
+      ],
+      "reasoning": {
+        "high_C": "Your conscientiousness is perfect for data analysis! You ensure accuracy, thoroughness, and systematic analysis.",
+        "high_S": "Your steadiness provides patience for working through large datasets and maintaining consistent processes.",
+        "low_I": "If you have low influence, you'll appreciate the independent, task-focused nature of data analysis.",
+        "moderate_D": "Some dominance helps with drawing conclusions and making recommendations from data."
+      },
+      "considerations": {
+        "low_C": "Low conscientiousness will struggle with the precision and attention to detail required in data analysis.",
+        "high_I": "Very high influence may miss the independent, less social aspects of data work."
+      }
+    },
+    "project_manager": {
+      "careerTitle": "Project Manager",
+      "cluster": "business_management_administration",
+      "discTraits": {
+        "primary": ["dominance", "steadiness"],
+        "secondary": ["influence", "conscientiousness"],
+        "avoid": []
+      },
+      "typeFinderTypes": {
+        "ideal": ["ESTJ", "ENTJ", "ISTJ", "INTJ"],
+        "suitable": ["ESFJ", "ENFJ", "ISFJ", "INFJ"]
+      },
+      "workEnvironment": {
+        "pace": "fast",
+        "structure": "high",
+        "socialLevel": "high",
+        "autonomy": "moderate"
+      },
+      "keyTraits": [
+        "Organized",
+        "Leadership skills",
+        "Excellent communicator",
+        "Problem-solver",
+        "Detail-oriented"
+      ],
+      "reasoning": {
+        "high_D": "Your dominance helps you drive projects forward, make decisions, and keep teams on track.",
+        "high_S": "Your steadiness helps you maintain project stability, support team members, and manage change carefully.",
+        "high_I": "Your influence helps you communicate effectively, build team cohesion, and manage stakeholders.",
+        "high_C": "Your conscientiousness ensures thorough planning, tracking, and attention to project details."
+      },
+      "considerations": {
+        "low_D": "Low dominance may struggle with the assertiveness and decision-making pressure of project management.",
+        "low_I": "Low influence may find the extensive communication and stakeholder management challenging."
+      }
+    },
+    "graphic_designer": {
+      "careerTitle": "Graphic Designer",
+      "cluster": "arts_av_communication",
+      "discTraits": {
+        "primary": ["influence", "conscientiousness"],
+        "secondary": [],
+        "avoid": []
+      },
+      "typeFinderTypes": {
+        "ideal": ["ISFP", "INFP", "ESFP", "ENFP"],
+        "suitable": ["ISTP", "INTP", "ESTP", "ENTP"]
+      },
+      "workEnvironment": {
+        "pace": "moderate",
+        "structure": "moderate",
+        "socialLevel": "moderate",
+        "autonomy": "high"
+      },
+      "keyTraits": [
+        "Creative",
+        "Visual thinker",
+        "Detail-oriented",
+        "Open to feedback",
+        "Trend-aware"
+      ],
+      "reasoning": {
+        "high_I": "Your influence helps you understand client needs, communicate design concepts, and collaborate with teams.",
+        "high_C": "Your conscientiousness ensures attention to design details, typography, color accuracy, and polished final products.",
+        "low_D": "Lower dominance can be beneficial for accepting creative feedback and iterating on designs.",
+        "moderate_S": "Moderate steadiness provides consistency while still being open to creative exploration."
+      },
+      "considerations": {
+        "low_C": "Low conscientiousness may struggle with the detailed, precise nature of professional graphic design.",
+        "very_high_D": "Very high dominance may struggle with the collaborative, feedback-driven design process."
+      }
+    },
+    "mechanical_engineer": {
+      "careerTitle": "Mechanical Engineer",
+      "cluster": "stem",
+      "discTraits": {
+        "primary": ["conscientiousness"],
+        "secondary": ["dominance", "steadiness"],
+        "avoid": []
+      },
+      "typeFinderTypes": {
+        "ideal": ["ISTJ", "INTJ", "ISTP", "INTP"],
+        "suitable": ["ESTJ", "ENTJ", "ESTP", "ENTP"]
+      },
+      "workEnvironment": {
+        "pace": "moderate",
+        "structure": "high",
+        "socialLevel": "moderate",
+        "autonomy": "moderate"
+      },
+      "keyTraits": [
+        "Analytical problem-solver",
+        "Detail-oriented",
+        "Practical thinker",
+        "Math and science skills",
+        "Persistent"
+      ],
+      "reasoning": {
+        "high_C": "Your conscientiousness is essential for precision engineering, thorough calculations, and quality assurance.",
+        "high_D": "Your dominance helps you lead projects, make engineering decisions, and solve challenging problems.",
+        "high_S": "Your steadiness provides patience for long development cycles and systematic testing.",
+        "low_I": "If you have low influence, you'll appreciate the technical, problem-solving focus over social aspects."
+      },
+      "considerations": {
+        "low_C": "Low conscientiousness will struggle with the precision and attention to detail required in engineering.",
+        "high_I_low_C": "High influence without conscientiousness may prefer more people-focused careers."
+      }
+    },
+    "psychologist": {
+      "careerTitle": "Psychologist/Therapist",
+      "cluster": "health_science",
+      "discTraits": {
+        "primary": ["steadiness", "conscientiousness"],
+        "secondary": ["influence"],
+        "avoid": []
+      },
+      "typeFinderTypes": {
+        "ideal": ["INFJ", "INFP", "ENFJ", "ENFP"],
+        "suitable": ["INTJ", "INTP", "ENTJ", "ENTP"]
+      },
+      "workEnvironment": {
+        "pace": "moderate",
+        "structure": "moderate",
+        "socialLevel": "high",
+        "autonomy": "high"
+      },
+      "keyTraits": [
+        "Empathetic listener",
+        "Patient",
+        "Analytical",
+        "Non-judgmental",
+        "Excellent communicator"
+      ],
+      "reasoning": {
+        "high_S": "Your steadiness provides the patience, calm presence, and emotional stability essential for therapy work.",
+        "high_C": "Your conscientiousness ensures thorough assessment, evidence-based treatment, and detailed documentation.",
+        "high_I": "Your influence helps you build therapeutic relationships, communicate effectively, and create safe spaces.",
+        "low_D": "Lower dominance can be beneficial for creating a non-authoritarian, client-centered therapeutic environment."
+      },
+      "considerations": {
+        "low_S": "Low steadiness may struggle with the patience and emotional regulation required in therapy.",
+        "high_D": "Very high dominance may struggle with the client-led, non-directive nature of many therapy approaches."
+      }
+    },
+    "journalist": {
+      "careerTitle": "Journalist/Reporter",
+      "cluster": "arts_av_communication",
+      "discTraits": {
+        "primary": ["dominance", "influence"],
+        "secondary": ["conscientiousness"],
+        "avoid": []
+      },
+      "typeFinderTypes": {
+        "ideal": ["ENTP", "ENFP", "ESTP", "ESFP"],
+        "suitable": ["INTP", "INFP", "ISTP", "ISFP"]
+      },
+      "workEnvironment": {
+        "pace": "fast",
+        "structure": "low",
+        "socialLevel": "high",
+        "autonomy": "moderate"
+      },
+      "keyTraits": [
+        "Curious",
+        "Excellent communicator",
+        "Adaptable",
+        "Persistent",
+        "Ethical"
+      ],
+      "reasoning": {
+        "high_D": "Your dominance helps you pursue stories assertively, meet tight deadlines, and ask tough questions.",
+        "high_I": "Your influence helps you build sources, conduct interviews, and communicate stories compellingly.",
+        "high_C": "Your conscientiousness ensures fact-checking, accuracy, and thorough research.",
+        "low_S": "Low steadiness is beneficial here - you thrive in the fast-paced, unpredictable nature of news."
+      },
+      "considerations": {
+        "low_I": "Low influence may struggle with the networking and interview-heavy aspects of journalism.",
+        "high_S": "High steadiness may find the deadline pressure and constant change stressful."
+      }
+    },
+    "sales_representative": {
+      "careerTitle": "Sales Representative",
+      "cluster": "marketing",
+      "discTraits": {
+        "primary": ["influence", "dominance"],
+        "secondary": [],
+        "avoid": []
+      },
+      "typeFinderTypes": {
+        "ideal": ["ENFP", "ESFP", "ENTP", "ESTP"],
+        "suitable": ["ENFJ", "ESFJ", "ENTJ", "ESTJ"]
+      },
+      "workEnvironment": {
+        "pace": "fast",
+        "structure": "low",
+        "socialLevel": "high",
+        "autonomy": "high"
+      },
+      "keyTraits": [
+        "Persuasive",
+        "Relationship builder",
+        "Resilient",
+        "Goal-oriented",
+        "Enthusiastic"
+      ],
+      "reasoning": {
+        "high_I": "Your influence is perfect for sales! You build relationships, communicate value, and persuade effectively.",
+        "high_D": "Your dominance drives you to close deals, pursue goals aggressively, and handle rejection.",
+        "low_S": "Low steadiness is beneficial - you thrive in the variable, commission-based nature of sales.",
+        "low_C": "Lower conscientiousness can work in sales, where speed and relationship-building often trump detailed analysis."
+      },
+      "considerations": {
+        "low_I": "Low influence will struggle significantly with the relationship-building and persuasion required in sales.",
+        "high_S": "High steadiness may find the rejection, variability, and pressure of sales stressful."
+      }
+    },
+    "hr_manager": {
+      "careerTitle": "Human Resources Manager",
+      "cluster": "business_management_administration",
+      "discTraits": {
+        "primary": ["influence", "steadiness"],
+        "secondary": ["conscientiousness"],
+        "avoid": []
+      },
+      "typeFinderTypes": {
+        "ideal": ["ENFJ", "ESFJ", "INFJ", "ISFJ"],
+        "suitable": ["ENFP", "ESFP", "INFP", "ISFP"]
+      },
+      "workEnvironment": {
+        "pace": "moderate",
+        "structure": "high",
+        "socialLevel": "high",
+        "autonomy": "moderate"
+      },
+      "keyTraits": [
+        "People-oriented",
+        "Excellent communicator",
+        "Diplomatic",
+        "Organized",
+        "Fair-minded"
+      ],
+      "reasoning": {
+        "high_I": "Your influence helps you build relationships, communicate policies, and create positive workplace culture.",
+        "high_S": "Your steadiness provides the patience, consistency, and supportiveness needed for effective people management.",
+        "high_C": "Your conscientiousness ensures compliance with labor laws, thorough documentation, and systematic processes.",
+        "moderate_D": "Some dominance helps with difficult conversations and making tough personnel decisions."
+      },
+      "considerations": {
+        "low_I": "Low influence may struggle with the highly social, relationship-focused nature of HR.",
+        "high_D_low_S": "High dominance without steadiness may struggle with the patience and empathy required in HR."
+      }
+    },
+    "environmental_scientist": {
+      "careerTitle": "Environmental Scientist",
+      "cluster": "stem",
+      "discTraits": {
+        "primary": ["conscientiousness"],
+        "secondary": ["steadiness", "influence"],
+        "avoid": []
+      },
+      "typeFinderTypes": {
+        "ideal": ["INTJ", "INTP", "INFJ", "INFP"],
+        "suitable": ["ISTJ", "ISTP", "ISFJ", "ISFP"]
+      },
+      "workEnvironment": {
+        "pace": "moderate",
+        "structure": "moderate",
+        "socialLevel": "moderate",
+        "autonomy": "moderate"
+      },
+      "keyTraits": [
+        "Analytical",
+        "Passionate about environment",
+        "Detail-oriented",
+        "Problem-solver",
+        "Collaborative"
+      ],
+      "reasoning": {
+        "high_C": "Your conscientiousness ensures thorough research, accurate data collection, and detailed environmental assessments.",
+        "high_S": "Your steadiness provides patience for long-term studies and consistent environmental monitoring.",
+        "high_I": "Your influence helps with stakeholder engagement, policy advocacy, and communicating findings.",
+        "moderate_D": "Some dominance helps with driving environmental initiatives and making recommendations."
+      },
+      "considerations": {
+        "low_C": "Low conscientiousness will struggle with the detailed, precise nature of scientific research.",
+        "very_high_D": "Very high dominance may be frustrated by the slower pace of scientific research and bureaucratic processes."
+      }
+    },
+    "architect": {
+      "careerTitle": "Architect",
+      "cluster": "architecture_construction",
+      "discTraits": {
+        "primary": ["conscientiousness", "influence"],
+        "secondary": ["dominance"],
+        "avoid": []
+      },
+      "typeFinderTypes": {
+        "ideal": ["INTJ", "INTP", "INFJ", "INFP"],
+        "suitable": ["ENTJ", "ENTP", "ENFJ", "ENFP"]
+      },
+      "workEnvironment": {
+        "pace": "moderate",
+        "structure": "moderate",
+        "socialLevel": "moderate",
+        "autonomy": "high"
+      },
+      "keyTraits": [
+        "Creative problem-solver",
+        "Detail-oriented",
+        "Visual thinker",
+        "Technical skills",
+        "Client-focused"
+      ],
+      "reasoning": {
+        "high_C": "Your conscientiousness is essential for detailed plans, building codes compliance, and technical accuracy.",
+        "high_I": "Your influence helps you understand client needs, communicate design vision, and collaborate with contractors.",
+        "high_D": "Your dominance helps you lead projects, make design decisions, and manage complex builds.",
+        "moderate_S": "Moderate steadiness provides consistency while still embracing creative innovation."
+      },
+      "considerations": {
+        "low_C": "Low conscientiousness will struggle with the precision and technical requirements of architecture.",
+        "low_I": "Low influence may find the client-facing, collaborative aspects challenging."
+      }
+    },
+    "physical_therapist": {
+      "careerTitle": "Physical Therapist",
+      "cluster": "health_science",
+      "discTraits": {
+        "primary": ["steadiness", "influence"],
+        "secondary": ["conscientiousness"],
+        "avoid": []
+      },
+      "typeFinderTypes": {
+        "ideal": ["ESFJ", "ISFJ", "ENFJ", "INFJ"],
+        "suitable": ["ESFP", "ISFP", "ENFP", "INFP"]
+      },
+      "workEnvironment": {
+        "pace": "moderate",
+        "structure": "moderate",
+        "socialLevel": "high",
+        "autonomy": "moderate"
+      },
+      "keyTraits": [
+        "Patient",
+        "Encouraging",
+        "Knowledge of anatomy",
+        "Problem-solver",
+        "Hands-on"
+      ],
+      "reasoning": {
+        "high_S": "Your steadiness provides the patience and supportiveness needed to guide patients through rehabilitation.",
+        "high_I": "Your influence helps you motivate patients, build therapeutic relationships, and communicate treatment plans.",
+        "high_C": "Your conscientiousness ensures accurate assessments, evidence-based treatment, and progress tracking.",
+        "moderate_D": "Some dominance helps with pushing patients appropriately and managing treatment programs."
+      },
+      "considerations": {
+        "low_S": "Low steadiness may struggle with the patience required for slow patient progress.",
+        "low_I": "Low influence may find the relationship-building and motivational aspects challenging."
+      }
+    },
+    "event_planner": {
+      "careerTitle": "Event Planner",
+      "cluster": "hospitality_tourism",
+      "discTraits": {
+        "primary": ["influence", "dominance"],
+        "secondary": ["conscientiousness"],
+        "avoid": []
+      },
+      "typeFinderTypes": {
+        "ideal": ["ENFJ", "ESFJ", "ENFP", "ESFP"],
+        "suitable": ["ENTJ", "ESTJ", "ENTP", "ESTP"]
+      },
+      "workEnvironment": {
+        "pace": "fast",
+        "structure": "moderate",
+        "socialLevel": "high",
+        "autonomy": "high"
+      },
+      "keyTraits": [
+        "Highly organized",
+        "Creative",
+        "Excellent communicator",
+        "Problem-solver",
+        "Calm under pressure"
+      ],
+      "reasoning": {
+        "high_I": "Your influence helps you build vendor relationships, communicate with clients, and create engaging experiences.",
+        "high_D": "Your dominance helps you lead event execution, make quick decisions, and handle last-minute challenges.",
+        "high_C": "Your conscientiousness ensures detailed planning, budget tracking, and nothing falls through the cracks.",
+        "low_S": "Low steadiness is beneficial - you thrive in the fast-paced, variable nature of event planning."
+      },
+      "considerations": {
+        "low_I": "Low influence may struggle with the highly social, relationship-dependent nature of event planning.",
+        "high_S": "High steadiness may find the stress and unpredictability of events challenging."
+      }
+    },
+    "financial_analyst": {
+      "careerTitle": "Financial Analyst",
+      "cluster": "finance",
+      "discTraits": {
+        "primary": ["conscientiousness"],
+        "secondary": ["steadiness", "dominance"],
+        "avoid": []
+      },
+      "typeFinderTypes": {
+        "ideal": ["INTJ", "ISTJ", "ENTJ", "ESTJ"],
+        "suitable": ["INTP", "ISTP", "ENTP", "ESTP"]
+      },
+      "workEnvironment": {
+        "pace": "fast",
+        "structure": "high",
+        "socialLevel": "moderate",
+        "autonomy": "moderate"
+      },
+      "keyTraits": [
+        "Analytical",
+        "Detail-oriented",
+        "Financial acumen",
+        "Problem-solver",
+        "Communicates insights"
+      ],
+      "reasoning": {
+        "high_C": "Your conscientiousness is essential for accurate financial modeling, thorough analysis, and attention to detail.",
+        "high_S": "Your steadiness provides consistency in analysis and patience with complex financial data.",
+        "high_D": "Your dominance helps you make bold recommendations and communicate findings assertively.",
+        "moderate_I": "Some influence helps with presenting findings and working with stakeholders."
+      },
+      "considerations": {
+        "low_C": "Low conscientiousness will struggle significantly with the precision required in financial analysis.",
+        "very_high_I_low_C": "Very high influence without conscientiousness may prefer more people-focused roles."
+      }
+    },
+    "chef": {
+      "careerTitle": "Chef",
+      "cluster": "hospitality_tourism",
+      "discTraits": {
+        "primary": ["dominance", "conscientiousness"],
+        "secondary": ["influence"],
+        "avoid": []
+      },
+      "typeFinderTypes": {
+        "ideal": ["ESTP", "ESFP", "ISTP", "ISFP"],
+        "suitable": ["ENTJ", "ESTJ", "INTJ", "ISTJ"]
+      },
+      "workEnvironment": {
+        "pace": "fast",
+        "structure": "moderate",
+        "socialLevel": "moderate",
+        "autonomy": "moderate"
+      },
+      "keyTraits": [
+        "Creative",
+        "Leadership skills",
+        "Detail-oriented",
+        "Calm under pressure",
+        "Passionate about food"
+      ],
+      "reasoning": {
+        "high_D": "Your dominance helps you lead kitchen teams, manage high-pressure service, and make quick decisions.",
+        "high_C": "Your conscientiousness ensures recipe precision, food safety compliance, and quality standards.",
+        "high_I": "Your influence helps you manage kitchen teams, create positive energy, and interact with customers.",
+        "low_S": "Low steadiness is beneficial - you thrive in the fast-paced, high-pressure kitchen environment."
+      },
+      "considerations": {
+        "low_D": "Low dominance may struggle with the leadership and assertiveness required in professional kitchens.",
+        "high_S": "High steadiness may find the stress and rapid pace of kitchen work challenging."
+      }
+    },
+    "lawyer": {
+      "careerTitle": "Lawyer",
+      "cluster": "law_public_safety_corrections_security",
+      "discTraits": {
+        "primary": ["dominance", "conscientiousness"],
+        "secondary": ["influence"],
+        "avoid": []
+      },
+      "typeFinderTypes": {
+        "ideal": ["ENTJ", "INTJ", "ESTJ", "ISTJ"],
+        "suitable": ["ENTP", "INTP", "ENFJ", "INFJ"]
+      },
+      "workEnvironment": {
+        "pace": "fast",
+        "structure": "high",
+        "socialLevel": "moderate",
+        "autonomy": "moderate"
+      },
+      "keyTraits": [
+        "Analytical",
+        "Persuasive",
+        "Detail-oriented",
+        "Ethical",
+        "Confident"
+      ],
+      "reasoning": {
+        "high_D": "Your dominance helps you advocate assertively, handle confrontation, and make compelling arguments.",
+        "high_C": "Your conscientiousness ensures thorough case preparation, attention to legal details, and research excellence.",
+        "high_I": "Your influence helps with jury persuasion, client relationships, and courtroom presence.",
+        "moderate_S": "Moderate steadiness provides consistency without avoiding necessary confrontation."
+      },
+      "considerations": {
+        "low_D": "Low dominance may struggle with the assertiveness and confrontation inherent in legal work.",
+        "low_C": "Low conscientiousness will struggle with the detailed, precise nature of legal work."
+      }
+    },
+    "veterinarian": {
+      "careerTitle": "Veterinarian",
+      "cluster": "agriculture_food_natural_resources",
+      "discTraits": {
+        "primary": ["conscientiousness", "steadiness"],
+        "secondary": ["influence"],
+        "avoid": []
+      },
+      "typeFinderTypes": {
+        "ideal": ["ISFJ", "ISTJ", "INFJ", "INTJ"],
+        "suitable": ["ESFJ", "ESTJ", "ENFJ", "ENTJ"]
+      },
+      "workEnvironment": {
+        "pace": "moderate",
+        "structure": "moderate",
+        "socialLevel": "moderate",
+        "autonomy": "moderate"
+      },
+      "keyTraits": [
+        "Compassionate",
+        "Detail-oriented",
+        "Problem-solver",
+        "Calm under pressure",
+        "Scientific knowledge"
+      ],
+      "reasoning": {
+        "high_C": "Your conscientiousness ensures accurate diagnoses, thorough treatment, and attention to medical details.",
+        "high_S": "Your steadiness provides calm, patient care for animals and emotional support for owners.",
+        "high_I": "Your influence helps you communicate with pet owners, build trust, and deliver difficult news compassionately.",
+        "moderate_D": "Some dominance helps with making medical decisions and managing emergency situations."
+      },
+      "considerations": {
+        "low_C": "Low conscientiousness will struggle with the precision required in veterinary medicine.",
+        "very_high_D_low_S": "Very high dominance without steadiness may struggle with the patience required for some aspects of animal care."
+      }
+    },
+    "customer_service_manager": {
+      "careerTitle": "Customer Service Manager",
+      "cluster": "business_management_administration",
+      "discTraits": {
+        "primary": ["influence", "steadiness"],
+        "secondary": ["dominance"],
+        "avoid": []
+      },
+      "typeFinderTypes": {
+        "ideal": ["ESFJ", "ENFJ", "ISFJ", "INFJ"],
+        "suitable": ["ESFP", "ENFP", "ISFP", "INFP"]
+      },
+      "workEnvironment": {
+        "pace": "fast",
+        "structure": "moderate",
+        "socialLevel": "high",
+        "autonomy": "moderate"
+      },
+      "keyTraits": [
+        "Patient",
+        "Excellent communicator",
+        "Problem-solver",
+        "Empathetic",
+        "Leadership skills"
+      ],
+      "reasoning": {
+        "high_I": "Your influence helps you build customer relationships, communicate effectively, and create positive team culture.",
+        "high_S": "Your steadiness provides the patience and calm needed for handling difficult customers and supporting your team.",
+        "high_D": "Your dominance helps you lead the team, make decisions, and drive service improvements.",
+        "moderate_C": "Some conscientiousness helps with tracking metrics and ensuring quality standards."
+      },
+      "considerations": {
+        "low_I": "Low influence may struggle with the highly social, relationship-focused nature of customer service.",
+        "low_S": "Low steadiness may struggle with the patience required for repetitive customer issues."
+      }
+    },
+    "video_game_designer": {
+      "careerTitle": "Video Game Designer",
+      "cluster": "arts_av_communication",
+      "discTraits": {
+        "primary": ["influence", "conscientiousness"],
+        "secondary": ["dominance"],
+        "avoid": []
+      },
+      "typeFinderTypes": {
+        "ideal": ["ENTP", "ENFP", "INTP", "INFP"],
+        "suitable": ["ENTJ", "ENFJ", "INTJ", "INFJ"]
+      },
+      "workEnvironment": {
+        "pace": "moderate",
+        "structure": "moderate",
+        "socialLevel": "moderate",
+        "autonomy": "high"
+      },
+      "keyTraits": [
+        "Creative",
+        "Technical skills",
+        "Player-focused",
+        "Collaborative",
+        "Problem-solver"
+      ],
+      "reasoning": {
+        "high_I": "Your influence helps you understand player psychology, collaborate with teams, and create engaging experiences.",
+        "high_C": "Your conscientiousness ensures attention to game mechanics, balancing, and polish.",
+        "high_D": "Your dominance helps you drive creative vision and make design decisions.",
+        "low_S": "Low steadiness is beneficial - you embrace the iterative, changing nature of game development."
+      },
+      "considerations": {
+        "low_C": "Low conscientiousness may struggle with the detailed, systematic design work required.",
+        "very_high_S": "Very high steadiness may find the constant iteration and change in game dev challenging."
+      }
+    },
+    "construction_manager": {
+      "careerTitle": "Construction Manager",
+      "cluster": "architecture_construction",
+      "discTraits": {
+        "primary": ["dominance", "conscientiousness"],
+        "secondary": ["steadiness"],
+        "avoid": []
+      },
+      "typeFinderTypes": {
+        "ideal": ["ESTJ", "ENTJ", "ISTJ", "INTJ"],
+        "suitable": ["ESTP", "ENTP", "ISTP", "INTP"]
+      },
+      "workEnvironment": {
+        "pace": "fast",
+        "structure": "high",
+        "socialLevel": "moderate",
+        "autonomy": "high"
+      },
+      "keyTraits": [
+        "Leadership skills",
+        "Organized",
+        "Problem-solver",
+        "Safety-focused",
+        "Technical knowledge"
+      ],
+      "reasoning": {
+        "high_D": "Your dominance is essential for leading crews, making quick decisions, and driving project completion.",
+        "high_C": "Your conscientiousness ensures safety compliance, quality standards, and detailed project planning.",
+        "high_S": "Your steadiness helps with maintaining consistent processes and supporting crew members.",
+        "moderate_I": "Some influence helps with managing crews and coordinating with stakeholders."
+      },
+      "considerations": {
+        "low_D": "Low dominance may struggle with the assertive leadership required in construction management.",
+        "low_C": "Low conscientiousness will struggle with safety compliance and quality management."
+      }
+    },
+    "public_relations_specialist": {
+      "careerTitle": "Public Relations Specialist",
+      "cluster": "marketing",
+      "discTraits": {
+        "primary": ["influence"],
+        "secondary": ["dominance", "conscientiousness"],
+        "avoid": []
+      },
+      "typeFinderTypes": {
+        "ideal": ["ENFJ", "ENFP", "ESFJ", "ESFP"],
+        "suitable": ["ENTJ", "ENTP", "ESTJ", "ESTP"]
+      },
+      "workEnvironment": {
+        "pace": "fast",
+        "structure": "low",
+        "socialLevel": "high",
+        "autonomy": "moderate"
+      },
+      "keyTraits": [
+        "Excellent communicator",
+        "Relationship builder",
+        "Creative writer",
+        "Crisis manager",
+        "Media savvy"
+      ],
+      "reasoning": {
+        "high_I": "Your influence is perfect for PR! You build media relationships, craft compelling narratives, and manage public perception.",
+        "high_D": "Your dominance helps you handle crisis situations, make quick decisions, and advocate assertively.",
+        "high_C": "Your conscientiousness ensures accurate messaging, thorough media monitoring, and attention to brand guidelines.",
+        "low_S": "Low steadiness is beneficial - you thrive in the fast-paced, unpredictable nature of PR."
+      },
+      "considerations": {
+        "low_I": "Low influence will struggle significantly with the relationship-building and communication focus of PR.",
+        "high_S": "High steadiness may find the crisis management and rapid pace of PR stressful."
+      }
+    },
+    "lab_technician": {
+      "careerTitle": "Laboratory Technician",
+      "cluster": "health_science",
+      "discTraits": {
+        "primary": ["conscientiousness"],
+        "secondary": ["steadiness"],
+        "avoid": []
+      },
+      "typeFinderTypes": {
+        "ideal": ["ISTJ", "INTJ", "ISFJ", "INFJ"],
+        "suitable": ["ESTJ", "ENTJ", "ESFJ", "ENFJ"]
+      },
+      "workEnvironment": {
+        "pace": "moderate",
+        "structure": "high",
+        "socialLevel": "low",
+        "autonomy": "moderate"
+      },
+      "keyTraits": [
+        "Detail-oriented",
+        "Precise",
+        "Methodical",
+        "Safety-conscious",
+        "Technical skills"
+      ],
+      "reasoning": {
+        "high_C": "Your conscientiousness is essential for accurate testing, precise measurements, and following protocols.",
+        "high_S": "Your steadiness provides patience for routine procedures and consistency in testing.",
+        "low_I": "If you have low influence, you'll appreciate the independent, task-focused nature of lab work.",
+        "low_D": "Lower dominance is fine for lab work, which emphasizes accuracy over speed."
+      },
+      "considerations": {
+        "low_C": "Low conscientiousness will struggle significantly with the precision required in laboratory work.",
+        "very_high_I": "Very high influence may miss more social, people-focused work."
+      }
+    },
+    "pilot": {
+      "careerTitle": "Commercial Pilot",
+      "cluster": "transportation_distribution_logistics",
+      "discTraits": {
+        "primary": ["dominance", "conscientiousness"],
+        "secondary": ["steadiness"],
+        "avoid": []
+      },
+      "typeFinderTypes": {
+        "ideal": ["ESTJ", "ISTJ", "ENTJ", "INTJ"],
+        "suitable": ["ESTP", "ISTP", "ENTP", "INTP"]
+      },
+      "workEnvironment": {
+        "pace": "moderate",
+        "structure": "high",
+        "socialLevel": "low",
+        "autonomy": "high"
+      },
+      "keyTraits": [
+        "Calm under pressure",
+        "Detail-oriented",
+        "Decisive",
+        "Technical aptitude",
+        "Responsible"
+      ],
+      "reasoning": {
+        "high_D": "Your dominance helps you make quick decisions, handle emergencies, and take command of the aircraft.",
+        "high_C": "Your conscientiousness ensures meticulous pre-flight checks, following procedures, and safety protocols.",
+        "high_S": "Your steadiness provides calm, consistent performance and emotional stability under pressure.",
+        "low_I": "If you have low influence, you'll appreciate the independent, technically-focused nature of flying."
+      },
+      "considerations": {
+        "low_D": "Low dominance may struggle with the decision-making and command authority required.",
+        "low_C": "Low conscientiousness will struggle with the safety-critical, procedure-focused nature of flying."
+      }
+    }
+  },
+  "generalRules": {
+    "high_D_careers": {
+      "bestFit": [
+        "Executive roles",
+        "Entrepreneurship",
+        "Sales management",
+        "Emergency response",
+        "Consulting",
+        "Law",
+        "Surgery"
+      ],
+      "challenges": [
+        "Roles requiring extreme patience",
+        "Highly routine administrative tasks",
+        "Positions with little autonomy",
+        "Careers requiring extensive empathy without action"
+      ]
+    },
+    "high_I_careers": {
+      "bestFit": [
+        "Teaching",
+        "HR",
+        "Public Relations",
+        "Event Planning",
+        "Customer-facing roles",
+        "Coaching",
+        "Marketing"
+      ],
+      "challenges": [
+        "Isolated, independent work",
+        "Highly technical, detail-focused roles with minimal social interaction",
+        "Low social interaction jobs",
+        "Purely analytical work"
+      ]
+    },
+    "high_S_careers": {
+      "bestFit": [
+        "Counseling",
+        "Healthcare (nursing, therapy)",
+        "Social work",
+        "Administrative support",
+        "Customer service",
+        "Teaching",
+        "Library science"
+      ],
+      "challenges": [
+        "High-pressure, deadline-driven roles",
+        "Extremely competitive environments",
+        "Rapid change and instability",
+        "Crisis management positions"
+      ]
+    },
+    "high_C_careers": {
+      "bestFit": [
+        "Engineering",
+        "Data analysis",
+        "Quality assurance",
+        "Accounting",
+        "Research",
+        "Architecture",
+        "Laboratory work"
+      ],
+      "challenges": [
+        "Highly ambiguous roles",
+        "Fast-paced, shoot-from-the-hip environments",
+        "Roles requiring quick, gut-level decisions without data",
+        "Highly social, less analytical positions"
+      ]
+    }
+  }
+}
